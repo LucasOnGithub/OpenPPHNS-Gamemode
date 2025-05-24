@@ -1,0 +1,6 @@
+- Work on a wiki on GitHub with the following topics (maybe combine them all into one topic with subtopics):
+	*- Enable Buyable Pills
+	*- Enable option for user to disable ELO gain
+	*- Enable AShop and Elite XP features
+	*- Modify Auto-Ghost
+	*- Create New Round Types

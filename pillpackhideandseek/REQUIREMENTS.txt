@@ -1,0 +1,49 @@
+CONTENT PACK REQUIREMENTS:
+
+- Open PPHNS Base Content Pack
+- Open PPHNS Base Server-Side Pack - Pills and Playermodels
+- Open PPHNS Base Server-Side Pack - Items
+- Open PPHNS Base Server-Side Pack - Miscellaneous
+
+All are available on the workshop via the collection: https://steamcommunity.com/workshop/filedetails/?id=3483883505
+
+GENERAL REQUIREMENTS:
+
+Pills:
+- Reignited Memories (modified)
+- Poppy Playtime Pills Ultimate (modified)
+- FUPPR 1 or FUPPR Lib (for the fuppr text)
+- FUPPR 3 (for the Fear the Shadow pills)
+- Geo's Workshop (for the nightmare pills)
+- William Afton Pill Pack (modified)
+- Twisted Ones Pill Pack (modified)
+- Glitchtrap Pill (Geozek's, modified)
+- Vanny Pill (Security Breach, modified)
+All pills should have the same range.
+
+Playermodels:
+- Realistic Crying Child Playermodel
+
+Content:
+- AShop
+- Elite XP System 2
+- VManip
+- Empty Hands
+- Shaky's Flashlight
+- GWS Spectate System Overhaul + Patches (modified)
+- Nextbot Chase Effect (modified)
+- Perfect MapVote
+- Simple Film Grain OR Simple Custom Shaders
+- VManip Base
+- VManip Extended Flashlight
+
+Optional but Recommended:
+- EScoreboard
+- gluapack
+- SCB chatbox
+- SAM Admin
+- Backdoor Shield
+- Leys Anticheat
+- Voice Icon Hider
+- Door Bust!
+- wOs Dynabase, Animations, Mixamo

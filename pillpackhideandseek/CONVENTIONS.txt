@@ -1,0 +1,14 @@
+Mentions of "base" <content> is assumed to be from REQUIREMENTS.TXT (i.e. "base pills" or pills listed in REQUIREMENTS.txt goes to a "basepills" folder).
+This isn't required to be followed but it helps with organization. You can rename your folders however you like if you are not satisfied with the conventions.
+
+- Organize all map content that isn't directly in a bsp file into a "mapcontent" or "custommaps" folder
+- Organize all base pills into a "basepills" folder (i.e. reignited memories, geo's workshop, twisted ones, etc.)
+	- Literal pill bases like enhanced pill base is to be it's own folder
+	- All non-base pills you add should be in a "custompills" folder
+		- Alternatively, "pills" folder can be chosen but "custompills" can be for pills not on the workshop
+- Organize all base playermodel content into a "baseplayermodels" or "playermodelsbase" folder
+	- All other playermodels you add should be in "playermodels"
+	- Playermodels chosen via online purchasing should be in "customplayermodels"
+- Organize all base items into a "baseitems" or "items" folder
+	- All other items can be categorized as you see fit (i.e. weapons, items, etc.)
+- Organize all standalone content (i.e. only models, only lua scripts, etc.) into respective folders but it can help to bundle them together

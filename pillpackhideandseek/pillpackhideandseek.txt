@@ -1,0 +1,8 @@
+"pillpackhideandseek"
+{
+	"base"		"base"
+	"title"		"Pill Pack Hide and Seek"
+	"maps"		"gm_"
+	"category"	"pvp"
+	"menusystem" 	"1"
+}
