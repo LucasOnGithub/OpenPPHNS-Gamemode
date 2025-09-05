@@ -1,4 +1,4 @@
-**THIS IS A MODIFIED VERSION OF OPPHNS, IT WILL HAVE UPDATED FEATURES FROM SIMPLE TIMER PLUS, AND HIDE AND SEEK ROUND SYSTEM.
+# THIS IS A MODIFIED VERSION OF OPPHNS, IT WILL HAVE UPDATED FEATURES FROM SIMPLE TIMER PLUS, AND HIDE AND SEEK ROUND SYSTEM.
 
 # The Open Pill Pack Hide and Seek Initiative
 Started by Setnour6 and proceeded with the approvals from Gentoi and Dylansonfire, the original makers of the well-known Pill Pack Hide and Seek gamemode.
